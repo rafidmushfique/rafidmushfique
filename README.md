@@ -1,62 +1,79 @@
-# 👋 Hi, I'm Md Rafid Mushfique
-
-🚀 Passionate Full-Stack Developer | 💡 Creative Problem Solver | 🌏 Based in Melbourne, Australia  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--rafid--mushfique-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-rafid-mushfique)  
-[![Website](https://img.shields.io/badge/Portfolio-rafidmushfique.github.io-181717?style=flat&logo=github)](https://rafidmushfique.github.io)  
-[![Email](https://img.shields.io/badge/Email-rafidmushfique@gmail.com-D14836?style=flat&logo=gmail)](mailto:rafidmushfique@gmail.com)
+<h1 align="center">Hi 👋, I'm Md Rafid Mushfique</h1>
+<p align="center">
+  🚀 Full-Stack Developer | 💡 Creative Thinker | 🎓 Postgraduate Student in Melbourne, Australia
+</p>
 
 ---
 
-## 💼 About Me
+### 🔗 Connect With Me
 
-- 🎓 Master's in IT (Professional Computing), Swinburne University (Ongoing)
-- 💼 Former Software Developer at ACI Limited (ERP, inventory, payroll systems)
-- 👨‍💻 Backend-focused with ASP.NET Core, C#, SQL Server
-- 🎮 Game developer hobbyist using Godot Engine
-- 🤝 Open to collaboration and freelance opportunities
-
----
-
-## 🔧 Tech Stack
-
-**Languages & Frameworks**  
-`C#` `ASP.NET Core` `T-SQL` `JavaScript` `HTML` `CSS` `Razor` `Python` `GDScript`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Visual Studio` `SQL Server` `Firebase` `Godot Engine` `Azure DevOps`
+<p align="left">
+  <a href="mailto:rafidmushfique@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/md-rafid-mushfique" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://rafidmushfique.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 💼 About Me
 
-### 🎮 [FoxHunt](https://github.com/rafidmushfique/FoxHunt)
-> A pixel-art 2D platformer game built using Godot Engine with custom collectibles, enemies, and teleporters.
-
-### 🏭 [Production Management System](https://github.com/rafidmushfique/ProductionManagementSystem)
-> Enterprise solution for managing production flow and inventory for Yamaha Motors — built with ASP.NET Core & SQL Server.
-
-### 📦 [InventoryManagement](https://github.com/rafidmushfique/InventoryManagement)
-> Full-featured inventory control system built with ASP.NET Core and SQL Server. Supports vendor management, requisition workflows, and stock tracking.
+- 🎓 Master's in IT (Professional Computing) @ Swinburne University
+- 🏢 Former Software Developer at **ACI Limited**
+- 💡 Backend-focused: C#, ASP.NET Core, MSSQL, Razor Pages
+- 🎮 Game hobbyist using Godot Engine (GDScript)
+- 🤝 Open to collaborations and freelance projects
 
 ---
 
-## 📈 GitHub Stats
+### 💻 Tech Stack
 
-![Rafid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafidmushfique&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidmushfique&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafidmushfique&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafidmushfique&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+</p>
 
 ---
 
-## 📬 Let's Connect
+### 📌 Featured Projects
 
-If you're building something exciting or just want to connect, feel free to reach out!
+#### 🎮 [FoxHunt](https://github.com/rafidmushfique/FoxHunt)
+> A pixel-art 2D platformer game built with Godot Engine. Includes collectibles, teleporters, enemies, and custom levels.
 
-📩 **rafidmushfique@gmail.com**  
-🌐 [rafidmushfique.github.io](https://rafidmushfique.github.io)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/md-rafid-mushfique)
+#### 📦 [InventoryManagement](https://github.com/rafidmushfique/InventoryManagement)
+> Full-featured inventory system for stock, categories, vendors, and requisitions. Built with ASP.NET Core and SQL Server.
+
+#### 🏭 [ProductionManagementSystem](https://github.com/rafidmushfique/ProductionManagementSystem)
+> Enterprise-level production control system for Yamaha Motors. Features inventory flow, approval chains, and analytics dashboards.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafidmushfique&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidmushfique&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafidmushfique&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidmushfique&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+
+Feel free to reach out if you're working on interesting tools, .NET apps, or open-source platforms.
+
+📧 rafidmushfique@gmail.com  
+🌐 [rafidmushfique.github.io](https://rafidmushfique.github.io)
 
