@@ -35,8 +35,8 @@
 ### 🏭 [Production Management System](https://github.com/rafidmushfique/ProductionManagementSystem)
 > Enterprise solution for managing production flow and inventory for Yamaha Motors — built with ASP.NET Core & SQL Server.
 
-### 📚 [BookStore](https://github.com/rafidmushfique/BookStore)
-> Simple CRUD-based Razor Pages app for managing personal book collections using .NET Core.
+### 📦 [InventoryManagement](https://github.com/rafidmushfique/InventoryManagement)
+> Full-featured inventory control system built with ASP.NET Core and SQL Server. Supports vendor management, requisition workflows, and stock tracking.
 
 ---
 
