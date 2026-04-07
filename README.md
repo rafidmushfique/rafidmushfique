@@ -37,8 +37,6 @@
 ### 📌 Featured Projects
 
 - 🎮 [FoxHunt](https://github.com/rafidmushfique/FoxHunt) – Godot-based 2D platformer with collectibles & teleporters.
-- 📦 [InventoryManagement](https://github.com/rafidmushfique/InventoryManagement) – Full-featured ASP.NET inventory system.
-- 🏭 [ProductionManagementSystem](https://github.com/rafidmushfique/ProductionManagementSystem) – Used for production tracking.
 - 🤖 [AI-CodeReviewer](https://github.com/rafidmushfique/AI-CodeReviewer) – LLM-powered code review tool that checks your repo against PDF coding rules and generates NFRs.
 
 ---
