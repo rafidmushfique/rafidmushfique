@@ -36,8 +36,9 @@
 
 ### 📌 Featured Projects
 
-- 🎮 [FoxHunt](https://github.com/rafidmushfique/FoxHunt) – Godot-based 2D platformer with collectibles & teleporters.
 - 🤖 [AI-CodeReviewer](https://github.com/rafidmushfique/AI-CodeReviewer) – LLM-powered code review tool that checks your repo against PDF coding rules and generates NFRs.
+- 🎮 [FoxHunt](https://github.com/rafidmushfique/FoxHunt) – Godot-based 2D platformer with collectibles & teleporters.
+- 🧭 [CampusCompass](https://github.com/rafidmushfique/CampusCompass) – Local-LLM chatbot that crawls a site's relevant pages and answers questions about them via Ollama.
 
 ---
 
